@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intents_buttons</string>
+    <string name="button">Button</string>
+    <string name="hello_geo">Hello geo</string>
+</resources>
